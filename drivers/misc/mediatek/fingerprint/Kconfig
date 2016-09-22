@@ -1,0 +1,3 @@
+
+source "drivers/misc/mediatek/fingerprint/gfx1xm/Kconfig"
+source "drivers/misc/mediatek/fingerprint/gf516m/Kconfig"

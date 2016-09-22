@@ -1,0 +1,4 @@
+
+config MTK_GFX1XM
+	bool "GFX1XM for MediaTek package"
+	default n

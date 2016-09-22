@@ -1,0 +1,6 @@
+
+config FINGERPRINT_GOODIX_GF516M
+  bool FINGERPRINT_GOODIX_GF516M
+  default n
+  help
+    Goodix Fingerprint chip GF316M/GF516M/GF616M/GF318M

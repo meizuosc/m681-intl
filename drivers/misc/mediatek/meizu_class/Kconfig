@@ -1,0 +1,4 @@
+
+config MTK_MEIZU_CLASS
+	bool "MEIZU CLASS for MediaTek package"
+	default n

@@ -1,0 +1,4 @@
+
+config MTK_PA122_BH1745
+	bool "ap122 and bh1745 for MediaTek package"
+	default n
